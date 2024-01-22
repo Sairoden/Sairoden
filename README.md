@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sairoden
+- 👋 Hi, I’m Sairoden
 - 👀 I’m a Full Stack Developer
 - 📫 How to reach me odingandarosa@gmail.com
 
