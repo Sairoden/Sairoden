@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Sairoden
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on Front End
+- 👀 I’m a Full Stack Developer
 - 📫 How to reach me odingandarosa@gmail.com
 
 <!---
